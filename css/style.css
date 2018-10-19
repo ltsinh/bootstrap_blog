@@ -74,7 +74,7 @@ body {
 #myCarousel .img-slide{
 	width:80px;
 	height:100%;
-	float:left;
+	/* float:left; */
 	margin-right:5px;
 }
 
